@@ -1,0 +1,2 @@
+# sparkline
+jquery.sparkline
